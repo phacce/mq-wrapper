@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "A Nodejs wrapper for message queues",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phacce/mq-wrapper.git"
+  },
   "scripts": {
     "test": "mocha --reporter spec"
   },
